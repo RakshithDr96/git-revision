@@ -5,4 +5,6 @@ function sayHello() {
   console.log("Hello");
 }
 
+console.log("Mathe yen samachara");
+
 sayHello();

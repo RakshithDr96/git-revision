@@ -6,5 +6,6 @@ function sayHello() {
 }
 
 console.log("Mathe yen samachara");
+console.log("Yenu illa Guru");
 
 sayHello();
